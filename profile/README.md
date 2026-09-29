@@ -13,8 +13,6 @@ launch them as reproducible packages.
 - **[Agent Stacks Specification](https://github.com/agent-stacks/agent-stacks-spec)** —
   defines how a stack composes Agent Plugins, Agent Skills, and the Model
   Context Protocol, plus what a stack adds on top.
-- **[agent-stacks-cli](https://github.com/agent-stacks/agent-stacks-cli)** —
-  imports, builds, and launches stacks.
 - **[agent-pkgs](https://github.com/agent-stacks/agent-pkgs)** — provides
   reproducible Nix packages for plugins, skills, MCP servers, and their
   runtimes.
